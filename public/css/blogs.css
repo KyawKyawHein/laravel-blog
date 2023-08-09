@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+article{
+    width: 500px;
+    border: 1px solid blue;
+    border-radius: 10px;
+    margin-bottom: 6px;
+    padding: 10px;
+}
